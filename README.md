@@ -1,2 +1,2 @@
-# Tarefa de TDD de TACS
+# Tarefa de TDD para a disciplina TACS
 ### Aluno: Guilherme Alves
